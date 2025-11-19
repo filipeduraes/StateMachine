@@ -1,0 +1,21 @@
+{
+  "name": "com.ideatogame.state-machine",
+  "version": "0.1.0",
+  "displayName": "State Machine",
+  "description": "A simple implementation of a Generic Hierarchical Finite State Machine (HFSM)",
+  "documentationUrl": "https://github.com/filipeduraes/StateMachine/blob/main/README.md",
+  "changelogUrl": "https://github.com/filipeduraes/StateMachine",
+  "licensesUrl": "https://github.com/filipeduraes/StateMachine/blob/main/LICENSE",
+  "keywords": [
+    "State",
+    "State Machine",
+    "Hierarchical",
+    "FSM",
+    "HFSM"
+  ],
+  "author": {
+    "name": "Idea.ToGame",
+    "email": "fhdduraes@gmail.com",
+    "url": "https://github.com/ideatogame"
+  }
+}

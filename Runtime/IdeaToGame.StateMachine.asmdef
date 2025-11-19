@@ -1,0 +1,14 @@
+{
+    "name": "IdeaToGame.StateMachine",
+    "rootNamespace": "IdeaToGame.HFSM",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
