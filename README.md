@@ -1,4 +1,4 @@
-# HFSM
+# State Machine
 
 A hierarchical finite state machine system for **Unity (C#)** designed for structured behaviors, deterministic transitions and strongly typed state logic.  
 It provides hierarchical state stacks, automatic state path resolution and controlled execution of `Enter`, `FixedUpdate`, and `Exit` across the entire active chain.
